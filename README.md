@@ -1,8 +1,5 @@
 # OSSProj_test
 
-<<<<<<< HEAD
 ### hello it's me...
 I just wondering that I...
-=======
-### hello it's me...
->>>>>>> 2867bb14863101fcc94050152e766790758857e4
+
